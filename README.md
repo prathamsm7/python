@@ -70,12 +70,12 @@ The following are built-in (no installation needed):
 
 | Day       | Topic                         | Key Concepts                                                                                              |
 | --------- | ----------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Day 1** | Python Building Blocks        | Variables, Data types, f-strings, User input, Truthy & Falsy values, Operators                            |
-| **Day 2** | Collections & Conditions      | if-else, List basics, Common list methods, Dictionaries, for loop                                         |
-| **Day 3** | Loops & Functions             | while loop, List comprehensions, Functions (def, parameters, return), Lambda functions                    |
-| **Day 4** | Working With Modules & Errors | Python modules (import, from-import), Exception handling (try/except/finally), HTTP Requests (GET & POST) |
-| **Day 5** | File Handling Essentials      | Working with `.txt`, Working with `.json`, Working with `.csv`                                            |
-| **Day 6** | OOP Fundamentals for GenAI    | What is a class?, Objects, attributes, and methods, Constructors (`__init__`), GenAI-friendly examples    |
+| **1** | Python Building Blocks        | Variables, Data types, f-strings, User input, Truthy & Falsy values, Operators                            |
+| **2** | Collections & Conditions      | if-else, List basics, Common list methods, Dictionaries, for loop                                         |
+| **3** | Loops & Functions             | while loop, List comprehensions, Functions (def, parameters, return), Lambda functions                    |
+| **4** | Working With Modules & Errors | Python modules (import, from-import), Exception handling (try/except/finally), HTTP Requests (GET & POST) |
+| **5** | File Handling Essentials      | Working with `.txt`, Working with `.json`, Working with `.csv`                                            |
+| **6** | OOP Fundamentals for GenAI    | What is a class?, Objects, attributes, and methods, Constructors (`__init__`), GenAI-friendly examples    |
 
 ### What You'll Build
 
