@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Ajay",
+        "age": "20",
+        "grades": [
+            20,
+            30,
+            45
+        ],
+        "email": "Ajay@gmail.com"
+    },
+    {
+        "name": "Vijay",
+        "age": "20",
+        "grades": [
+            30,
+            40,
+            45
+        ],
+        "email": "Vijay@gmail.com"
+    },
+    {
+        "name": "Sanjay",
+        "age": "20",
+        "grades": [
+            22,
+            42,
+            65
+        ],
+        "email": "Sanjay@gmail.com",
+        "gender": "male"
+    }
+]
