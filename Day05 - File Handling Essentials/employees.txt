@@ -1,0 +1,32 @@
+{'name': 'Carol Davis', 'department': 'Engineering', 'salary': 85000, 'years_of_experience': 8} 
+{'name': 'ALex', 'department': 'IT', 'salary': 55000, 'years_of_experience': 8} 
+{'name': 'John', 'department': 'Product', 'salary': 95000, 'years_of_experience': 8} 
+Total payroll: 365000 
+Avg salary of Engineering is: 80000.0 
+Avg salary of Marketing is: 55000.0 
+Avg salary of IT is: 55000.0 
+Avg salary of Product is: 95000.0 
+{'name': 'Carol Davis', 'department': 'Engineering', 'salary': 85000, 'years_of_experience': 8} 
+{'name': 'ALex', 'department': 'IT', 'salary': 55000, 'years_of_experience': 8} 
+{'name': 'John', 'department': 'Product', 'salary': 95000, 'years_of_experience': 8} 
+Total payroll: 365000 
+Avg salary of Engineering is: 80000.0 
+Avg salary of Marketing is: 55000.0 
+Avg salary of IT is: 55000.0 
+Avg salary of Product is: 95000.0 
+{'name': 'Carol Davis', 'department': 'Engineering', 'salary': 85000, 'years_of_experience': 8} 
+{'name': 'ALex', 'department': 'IT', 'salary': 55000, 'years_of_experience': 8} 
+{'name': 'John', 'department': 'Product', 'salary': 95000, 'years_of_experience': 8} 
+Total payroll: 365000 
+Avg salary of Engineering is: 80000.0 
+Avg salary of Marketing is: 55000.0 
+Avg salary of IT is: 55000.0 
+Avg salary of Product is: 95000.0 
+{'name': 'Carol Davis', 'department': 'Engineering', 'salary': 85000, 'years_of_experience': 8} 
+{'name': 'ALex', 'department': 'IT', 'salary': 55000, 'years_of_experience': 8} 
+{'name': 'John', 'department': 'Product', 'salary': 95000, 'years_of_experience': 8} 
+Total payroll: 365000 
+Avg salary of Engineering is: 80000.0 
+Avg salary of Marketing is: 55000.0 
+Avg salary of IT is: 55000.0 
+Avg salary of Product is: 95000.0 

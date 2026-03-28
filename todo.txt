@@ -1,0 +1,6 @@
+1. Wake up early 
+2. Hit the gym 
+3. Take a bath 
+4. Check the email updates 
+5. Start work 
+6. source "/Users/prathammungekar/Git Repo/Python/Day-1/python-for-genai/.venv/bin/activate" 

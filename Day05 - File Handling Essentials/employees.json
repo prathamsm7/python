@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alice Johnson",
+        "department": "Engineering",
+        "salary": 75000,
+        "years_of_experience": 5
+    },
+    {
+        "name": "Bob Smith",
+        "department": "Marketing",
+        "salary": 55000,
+        "years_of_experience": 3
+    },
+    {
+        "name": "Carol Davis",
+        "department": "Engineering",
+        "salary": 85000,
+        "years_of_experience": 8
+    },
+    {
+        "name": "ALex",
+        "department": "IT",
+        "salary": 55000,
+        "years_of_experience": 8
+    },
+    {
+        "name": "John",
+        "department": "Product",
+        "salary": 95000,
+        "years_of_experience": 8
+    }
+]
